@@ -1,0 +1,16 @@
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.exe
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.deps.json
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.runtimeconfig.json
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.runtimeconfig.dev.json
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.dll
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\bin\Debug\net5.0\StringSplitter.pdb
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.csproj.AssemblyReference.cache
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.AssemblyInfoInputs.cache
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.AssemblyInfo.cs
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.csproj.CoreCompileInputs.cache
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.dll
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\refint\StringSplitter.dll
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.pdb
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\StringSplitter.genruntimeconfig.cache
+C:\Users\LogicOne\Desktop\Mi practica personal (General)\Udemy\Fundamentos de C# para Principiantes\StringSplitter\StringSplitter\obj\Debug\net5.0\ref\StringSplitter.dll
